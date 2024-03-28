@@ -1,0 +1,14 @@
+.contents{margin-top: 80px;display:flex;flex-direction: row;flex-wrap: wrap;flex-grow: 1;flex-basis: auto;list-style: none;justify-content: space-around;}
+.vidrow{display:flex;flex-direction: column;flex-wrap: wrap; }
+.detailrow{display:flex;flex-direction: row;flex-wrap: wrap; gap: 5%;}
+.vidimg{width: 400px;height: 240px; border: 1px solid grey;border-radius: 2%;cursor:pointer;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+.channeldata{display: flex;flex-direction: column;flex-wrap: wrap;}
+.viewage{font-size: small ;}
+.channelname{font-size: larger; font-weight: 600;}
+.videocontent{display:flex;flex-direction: column;flex-wrap: wrap; margin-top: 80px;}
+.videochanneldetails{
+    display:flex;flex-direction: row;flex-wrap: wrap; gap:50%; list-style: none;
+}
+.channelvidname{font-size: 24px; font-weight: 600;}
+.vidviewage{font-size: 17px ;}
+
